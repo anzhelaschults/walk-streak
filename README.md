@@ -16,9 +16,9 @@ A minimal daily walk tracker that lives in a single HTML file. No installs, no a
 
 ## Preview
 
-| Streak | Calendar | Stats |
-|--------|----------|-------|
-| Large counter updates live | Sage green = walked · Dark red = missed | Total · Month · 30-day rate |
+<img src="preview.png" alt="Walk Streak app screenshot" width="320" />
+
+> Dark forest background · terracotta streak counter · sage green log button · color-coded 5-week calendar · stats row
 
 ## Usage
 
